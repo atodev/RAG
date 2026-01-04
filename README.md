@@ -1,6 +1,7 @@
 
 # RAG
 Retrieval-Augmented Generation (RAG) with Gemini File Search
+
 🏛️ Grounding Gemini on Ancient Wisdom: Marcus Aurelius (1887)
 The Challenge: OCR and Antiquity
 This project demonstrates the power of Retrieval-Augmented Generation (RAG) by tackling a unique source: an 1887 digitized copy of Marcus Aurelius' Meditations.
