@@ -1,5 +1,7 @@
 
 # RAG
+<img width="564" height="759" alt="image" src="https://github.com/user-attachments/assets/d78e2e25-311c-4a15-ab60-b1fb3249c731" />
+
 Retrieval-Augmented Generation (RAG) with Gemini File Search
 
 🏛️ Grounding Gemini on Ancient Wisdom: Marcus Aurelius (1887)
